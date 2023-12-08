@@ -1,0 +1,79 @@
+h1.title {
+    color: aqua;
+    text-align: center;
+}
+h1.html {
+    color: red;
+    text-align: center;
+}
+.analog {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+button {
+    height:20px; 
+    width: 175px; 
+    margin: -20px -100px; 
+    position:relative;
+    top:50%; 
+    left:50%;
+}
+table {
+    width: 100%;
+}
+th, tr, td {
+    border: 5px solid black;
+}
+th {
+    padding-right: 75px;
+}
+td {
+    text-align: left;
+}
+.htmltable {
+    text-align: center;
+    
+}
+.description {
+    padding-right: 100px;
+    text-align: center;
+}
+.opening {
+    padding-left: 50px;
+}
+.index {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+.digital {
+    text-align: center;
+}
+.css {
+    text-align: center;
+    color: royalblue;
+}
+#t1, #t2 {
+    color: chocolate;
+}
+#t1 {
+    font-family: cursive;
+}
+#box {
+    height: 25px;
+    width: 99%;
+    border: 3px solid black;
+    border-radius: 5px;
+    text-align: center;
+    padding: 10px 10px;
+}
+#model {
+    height: 30px;
+    margin: 50px;
+    border: 3px solid blue;
+    padding: 10px 10px 4px 9px;
+    text-align: center;
+}
